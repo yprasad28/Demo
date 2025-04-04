@@ -11,6 +11,5 @@ public static void main(String[] args) {
 
 //hey will there be a merge conflict?
 
-public static void main(String[] args) {
-    System.out.println("Jai balayaaaaaaaaaaaaa");
-}
+
+//pawan kalyan power star
